@@ -27,8 +27,8 @@ Please do not delete what you will find there!
 | Emelyne |image of the person |
 | Booyseen |A stylized paragraph
 |
-| Raphael | An unordered list highlighting some of the person’s accomplishments |
-| Celestin | Stylized header (style applied using CSS)
+| Raphael | uli person’s accomplishments |
+| Celestin | Stylized header using CSS)
  |
 
 
