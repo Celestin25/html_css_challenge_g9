@@ -25,7 +25,7 @@ Please do not delete what you will find there!
 | Name        | task                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | Emelyne |image of the person |
-| Booyseen |A stylized paragraph
+| Booysen |A stylized paragraph
 | Celestin | Stylized header using CSS)
 |Raphael    | An unordered list highlighting some of the person’s accomplishments
 
