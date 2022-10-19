@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: black;
+  text-indent: 2px;
+  text-transform: lowercase;
+  text-align:left;
+}
+
+h1 {text-align: center
+
+    }
+      
+strong { span style="text-transform:uppercase;"}    
+
+</style>
+</head>
+<body>
+
+<h1>Fred Swaniker entrepreneurial guru!</h1>
+
+<p><i>
+<span style="background-color: transparent;"><span style="text-transform:uppercase;">F</span>red is deeply passionate about Africa and believes that the missing ingredient on the continent is good leadership. In line with this, is the founder of the African Leadership Group that aim to catalyse a new generation of ethical, entrepreneurial African leaders. The group comprises of the <span style="text-transform:uppercase;"><strong>African Leadership Academy</strong></span> the <span style="text-transform:uppercase;"> <strong>African Leadership University</strong></span>, <span style="text-transform:uppercase;"><strong>ALX</strong></span>, and the <span style="text-transform:uppercase;"><strong>Room</strong> </span>.
+
+In recognition of his work in developing Africa’s future leaders, Fred was selected as one of 115 young leaders to meet US President Obama at the first-ever President’s Forum for Young African Leaders held at the White House in 2010. He has been recognised as a Young Global Leader by the World Economic Forum, and was listed by Forbes Magazine among the top ten young ‘power men’ in Africa in 2011.<span style="text-transform:uppercase;"> F</span>red was also recognized by Echoing Green as one of fifteen “best emerging social entrepreneurs in the world” in 2006. <span style="text-transform:uppercase;">H</span>e was a 2009 TED Fellow and is a Fellow of the Aspen Institute’s Global Leadership Network.
+
+Fred began his professional career as a consultant with McKinsey and Company and has an MBA from Stanford Business School, where he was named an Arjay Miller Scholar, a distinction awarded to the top 10% of each graduating class at the business school. He was born in Ghana but has lived and worked in about 10 different African countries.</span></p></i></p>
+
+</body>
+</html>
